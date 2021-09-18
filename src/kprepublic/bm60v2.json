@@ -1,7 +1,7 @@
 {
   "name": "KP Republic BM60V2",
   "vendorId": "0x4B50",
-  "productId": "0x3C02",
+  "productId": "0x1121",
   "lighting": {
     "extends": "none",
     "keycodes": "qmk"
